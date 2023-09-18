@@ -538,8 +538,8 @@ h2{
 }
 
 .hurray-message > button{
-    position: relative;
-    bottom: 10%;
+    position: absolute;
+    bottom: 13%;
     height: 50px;
     width: 170px;
     background-color: #ffff;
