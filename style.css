@@ -508,8 +508,7 @@ footer{
 .star-img{
     display: block;
     width: 500px;
-    position: relative;
-    top: 5%;
+    /* position: relative; */
 }
 
 .cup-img{
@@ -517,29 +516,29 @@ footer{
     width: 210px;
     position: relative;
     z-index: 2;
-    bottom: 16%;
+    bottom: 130px;
 }
 
 h1{
     color: #fff;
     font-size: 80px;
     position: relative;
-    bottom: 12%;
+    bottom: 100px;
     letter-spacing: 4px;
 }
 
 h2{
     color: #fff;
     position: relative;
-    bottom: 12%;
+    bottom: 90px;
     font-size: 30px;
     font-weight: 200;
     letter-spacing: 5px;
 }
 
 .hurray-message > button{
-    position: absolute;
-    bottom: 13%;
+    position: relative;
+    bottom: 60px;
     height: 50px;
     width: 170px;
     background-color: #ffff;
