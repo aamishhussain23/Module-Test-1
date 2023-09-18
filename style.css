@@ -169,7 +169,6 @@ main{
 .game > button{
     height: 150px;
     width: 150px;
-    z-index: 2;
     border-radius: 50%;
     position: absolute;
 }
